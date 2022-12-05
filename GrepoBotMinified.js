@@ -94,7 +94,7 @@ var Autobot = {
                 "Rank:": Game.player_rank,
                 "Towns:": Game.player_villages,
                 "Language:": Game.locale_lang,
-                "Premium: ": "[ CRACKED by xadam1 ]"
+                "Premium: ": "[ CRACKED by T0rmentor ]"
             },
             o = $("<table/>", {
                 class: "game_table layout_main_sprite",
