@@ -2,7 +2,7 @@ var Autobot = {
     title: "GrepoBot",
     version: "5.1",
     domain: window.location.protocol + "//bot.grepobot.com/",
-    scriptDomain: window.location.protocol + "https://cdn.jsdelivr.net/gh//TheT0rmentor/T0rmentBot/" ,
+    scriptDomain: window.location.protocol + "https://cdn.jsdelivr.net/gh/TheT0rmentor/T0rmentBot/" ,
     botWnd: "",
     botPremWnd: "",
     botEmailWnd: "",
